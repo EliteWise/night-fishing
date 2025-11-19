@@ -1,0 +1,10 @@
+{
+  "Name": "Night Fishing",
+  "Author": "EliteWise",
+  "Version": "1.0.0",
+  "Description": "SMAPI Mod to duplicate fish caught after midnight",
+  "UniqueID": "EliteWise.NightFishing",
+  "EntryDll": "NightFishing.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
